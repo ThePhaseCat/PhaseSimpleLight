@@ -1,1 +1,7 @@
-{"pack":{"pack_format":15,"description":[{"text":"§5Phase's Simple Lights"},{"text":"\n§bNew Simple Lights!"}],"supported_formats":[15,18,22,32,34,42,46, 55, 63, 64]}}
+{
+  "pack": {
+    "description": "§5Phase's Simple Lights\n§bNew Simple Lights!",
+    "min_format": [69, 0],
+    "max_format": [69, 0]
+  }
+}
